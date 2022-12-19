@@ -1,1 +1,11 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+
+body {
+    background-color: #B4CAE0;
+}
+
+
+.shadow {
+    box-shadow: 0px 3px 17px 9px rgba(0, 0, 0, 0.68) !important;
+}
